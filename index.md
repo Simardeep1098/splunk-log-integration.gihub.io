@@ -10,6 +10,4 @@ layout: default
 
 The goal of this project was to configure and send log data from Azure Active Directory (Azure AD) and Office 365 (O365) platforms to Splunk for centralized monitoring and analysis. The log data included activity from multiple O365 services such as Azure AD Audit and Login activity, Exchange Online, SharePoint, Teams, and OneDrive. This integration provided real-time insights into user activity and security events, enabling improved visibility and faster incident response.
 
-## Conclusion
 
-This project will be completed an the page will be updated in a week. :)
